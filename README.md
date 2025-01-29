@@ -4,7 +4,7 @@
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
 ## 📊 Dataset Used
-- Link to the dataset: [Coffee Shop Data](<INSERT LINK HERE>)
+- Link to the dataset: [Coffee Shop Data](https://github.com/ind-madhusudan/coffee-shop-dataset-analysis/blob/main/coffee_shop_sales_report.xlsx)
 
 ## ❓ Questions (KPIs)
 

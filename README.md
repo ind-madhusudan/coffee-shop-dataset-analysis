@@ -1,5 +1,7 @@
 # ☕ Coffee Shop Dataset Analysis
 
+![](https://github.com/ind-madhusudan/coffee-shop-dataset-analysis/blob/main/excel_dashboard.png)
+
 ## 🎯 Project Objectives
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
@@ -55,8 +57,8 @@ The main objective of this project is to analyze retail sales data to gain actio
    - **Top Product Type (Barista Espresso - 22%):**  
      Barista Espresso stands out as a top-selling product type, contributing 22% to overall sales.
 
-## 🔗 Dashboard Link
-- [View Dashboard](<INSERT LINK HERE>)
+### 7. Dashboard Link
+- [Click here to view dashboard](https://github.com/ind-madhusudan/coffee-shop-dataset-analysis/blob/main/excel_dashboard.png)
 
 ## 📝 Process
 
